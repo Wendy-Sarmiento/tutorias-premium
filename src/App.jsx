@@ -205,7 +205,7 @@ function App() {
                 background: 'white', 
                 padding: '30px', 
                 borderRadius: '24px',
-                boxShadow: var(--shadow-premium)
+                boxShadow: 'var(--shadow-premium)'
               }}>
                 <p style={{ fontWeight: '700', fontSize: '1.2rem', color: 'var(--deep-blue)' }}>"Aprender es la mejor inversión"</p>
                 <p style={{ fontSize: '0.9rem', color: 'var(--text-muted)' }}>— Wendy Sarmiento</p>
