@@ -1,0 +1,10 @@
+/* Reset and global styles are already in App.css for simplicity in this project. */
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+}
+#root {
+  width: 100%;
+}
